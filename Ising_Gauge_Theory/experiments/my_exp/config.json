@@ -1,0 +1,14 @@
+{
+    "batch_size": 64,
+    "epochs": 100,
+    "gamma": 0.0002,
+    "hidden_size": 6,
+    "image_size": 16,
+    "lr": 0.01,
+    "num_channels": 2,
+    "num_classes": 2,
+    "num_corr": 4,
+    "patch_size": 2,
+    "qkv_bias": false,
+    "seed": 32
+}
